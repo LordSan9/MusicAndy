@@ -1,4 +1,4 @@
-<h2 align="centre">Kyura Music Player</h2>
+<h2 align="centre">Andy Music Player</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/e42317e82b1c9e8c60c2a.jpg">
