@@ -175,7 +175,7 @@ start_keyboard = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "الاوامـــر مـن هـنـا : 📚", url="https://t.me/BARL0o0_HELP_SOURCE/2"
+                "الاوامـــر مـن هـنـا : 📚", url="https://t.me/IIlAndylII"
             )
         ],
         [InlineKeyboardButton("أخفاء╎❌", callback_data="close2")],
